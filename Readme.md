@@ -62,11 +62,6 @@ Clusters are color-coded using `viridis` colormap.
 * Elbow method for selecting the number of clusters
 * 3D plotting using `matplotlib` for better visual insights
 
----
-
-## Resource
-
-* Dataset Source: [Mall Customers Dataset (Kaggle)](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial
 
 ---
 
